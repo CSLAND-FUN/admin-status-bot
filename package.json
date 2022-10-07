@@ -1,0 +1,10 @@
+{
+  "name": "csland-admins-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "enmap": "^5.9.1"
+  }
+}

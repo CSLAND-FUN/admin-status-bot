@@ -1,0 +1,6 @@
+{
+  "token": "DISCORD BOT TOKEN",
+  "guild_id": "GUILD ID TO WATCH",
+  "channel_id": "CHANNEL ID TO WATCH",
+  "users": ["USER ID's"]
+}
